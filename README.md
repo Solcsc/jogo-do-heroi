@@ -1,14 +1,14 @@
-
 # 🌍 Jornada do Herói - Desafio de Programação
 
-Este projeto é uma aplicação em Python que modela a estrutura de um herói de uma aventura utilizando conceitos fundamentais de **Programação Orientada a Objetos (POO)**.
+Este projeto é uma aplicação em Python que modela o comportamento e as ações de um herói de uma aventura de forma estruturada.
 
 ## 🚀 Funcionalidades
-O sistema possui uma classe principal capaz de instanciar diferentes tipos de heróis, contendo:
-* **Propriedades básicas:** Nome, Idade e Tipo (Mago, Guerreiro, Monge ou Ninja).
-* **Método de Ação (Atacar):** Uma estrutura de decisão que identifica a classe do herói e exibe uma mensagem personalizada com o tipo de ataque correspondente.
+O sistema possui uma estrutura capaz de processar diferentes tipos de heróis, contendo:
+* **Informações básicas:** Nome, Idade e Tipo (Mago, Guerreiro, Monge ou Ninja).
+* **Mecanismo de Ação (Atacar):** Uma estrutura de decisão que identifica a classe do herói e exibe uma mensagem personalizada com o tipo de ataque correspondente.
 
 ## 🛠️ Conceitos Aplicados
-* **Variáveis e Objetos:** Armazenamento das propriedades do personagem.
-* **Classes e Métodos:** Molde estrutural da lógica do herói e suas ações.
+* **Variáveis:** Armazenamento das propriedades do personagem.
+* **Funções e Procedimentos:** Organização e execução da lógica de ataque.
 * **Estruturas de Decisão (`if/elif/else`):** Controle de fluxo para determinar o ataque correto de cada classe.
+
